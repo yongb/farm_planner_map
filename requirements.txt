@@ -1,0 +1,5 @@
+streamlit>=1.30
+pandas>=2.0
+folium>=0.15
+streamlit-folium>=0.18
+openrouteservice>=2.3
